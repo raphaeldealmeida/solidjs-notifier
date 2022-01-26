@@ -1,0 +1,27 @@
+{
+  "name": "solidjs-notifier",
+  "version": "0.0.1",
+  "description": "Component to manage notifications for SolidJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaeldealmeida/solidjs-notifier.git"
+  },
+  "keywords": [
+    "solidjs",
+    "component"
+  ],
+  "author": "Raphael de Almeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphaeldealmeida/solidjs-notifier/issues"
+  },
+  "homepage": "https://github.com/raphaeldealmeida/solidjs-notifier#readme",
+  "dependencies": {
+    "solid-js": "^1.3.3",
+    "solid-transition-group": "^0.0.8"
+  }
+}

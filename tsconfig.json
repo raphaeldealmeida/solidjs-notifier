@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    // export TS types
+    "declaration": true,
+    "outDir": "./dist",
+    "jsx":"preserve"
+  },
+  "include": [
+    "src/**/*",
+    "./src/**/*.ts"
+  ],
+  "exclude": [
+    "./dist"
+  ]
+}
